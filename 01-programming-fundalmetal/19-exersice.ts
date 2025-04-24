@@ -23,6 +23,7 @@
   console.log(date2.getDate());
   const result2 = Math.abs(date1.getDate() - date2.getDate());
   console.log(result2);
+
   // 2.2 Final solution
-  const diffInMiliseconds;
+  // const diffInMiliseconds;
 }

@@ -1,33 +1,33 @@
-{
-    /* ---------------------------------- BREAK --------------------------------- */
-  let sum = 0;
+// {
+//     /* ---------------------------------- BREAK --------------------------------- */
+//   let sum = 0;
 
-  while (true) {
-    let sum = 0;
+//   while (true) {
+//     let sum = 0;
 
-    if (sum === 5) {
-      console.log(sum);
-      break;
-    }
+//     if (sum === 5) {
+//       console.log(sum);
+//       break;
+//     }
 
-    console.log(sum);
+//     console.log(sum);
 
-    sum++;
-  }
-}
+//     sum++;
+//   }
+// }
 
-/* -------------------------------- CONTINUE -------------------------------- */
+// /* -------------------------------- CONTINUE -------------------------------- */
 
-let counter = 0;
+// let counter = 0;
 
-while (counter < 5) {
-   counter++;
+// while (counter < 5) {
+//    counter++;
 
-   if (counter === 2) {
-    continue;
-  
-  }
-  console.log(counter);
+//    if (counter === 2) {
+//     continue;
 
-  ++;
-}
+//   }
+//   console.log(counter);
+
+//   ++;
+// }
